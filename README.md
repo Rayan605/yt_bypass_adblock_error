@@ -39,7 +39,7 @@ Done! The extension is now active.
 
 ---
 
-## 🛠 When should I use this?
+## When should I use this?
 
 If YouTube shows this error when you try to play a video:
 
