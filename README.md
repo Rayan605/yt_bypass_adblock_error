@@ -1,7 +1,7 @@
 
 
 # YouTube Adblocker Error Fix (Chrome Extension)
-This chrome extension bypasses the "This content is unavailable try again later" message that youtube gives when it detects an adblocker.
+This chrome extension bypasses the "This content is unavailable, try again later" message that youtube gives when it detects an adblocker.
 Fixes the YouTube error message:  
 **"This content is unavailable. Try again later."**
 
@@ -16,7 +16,7 @@ This lightweight Chrome extension automatically reloads YouTube video pages when
 - Detects when the YouTube video player fails to load
 - Automatically reloads the page once
 - Fixes the error:  
-  **"This content is unavailable. Try again later."**
+  **"This content is unavailable, try again later."**
 - Works only on YouTube video pages (`/watch`)
 - No tracking, no ads, no data collection
 
