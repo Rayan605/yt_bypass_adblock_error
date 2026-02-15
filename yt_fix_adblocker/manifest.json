@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Player Auto Reload",
+  "version": "1.0",
+  "description": "Disables the error message when youtube detects an adblocker",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
